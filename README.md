@@ -1,6 +1,6 @@
 # 2022graphics
-Teapot程式碼
 week02
+Teapot程式碼
 ```c++
 #include <GL/glut.h>
 static void display(void)
